@@ -1,0 +1,80 @@
+<SENT argument="ETR" author="MINANGOY ROBERT" date="1990-01-19" nb="1000" textID="456">
+    <NP fct="SUJ">
+      <w cat="PRO" ee="PRO-card-mp" ei="PROmp" lemma="six" mph="mp" subcat="card">Six</w>
+      <PP>
+        <w cat="P" compound="yes" ee="P" ei="P" lemma="d'entre"> 
+               <w catint="P">d'</w>
+               <w catint="P">entre</w>
+            </w>
+        <NP>
+          <w cat="PRO" ee="PRO-3mp" ei="PRO3mp" lemma="eux" mph="3mp" subcat="pers">eux</w>
+        </NP>
+      </PP>
+    </NP>
+    <VPpart fct="MOD">
+      <w cat="PONCT" ee="PONCT-W" ei="PONCTW" lemma="," subcat="W">,</w>
+      <w cat="ADV" ee="ADV" ei="ADV" lemma="seulement">seulement</w>
+      <w cat="V" ee="V--Kmp" ei="VKmp" lemma="blesser" mph="Kmp" subcat="">blessés</w>
+      <w cat="PONCT" ee="PONCT-W" ei="PONCTW" lemma="," subcat="W">,</w>
+    </VPpart>
+    <VN>
+      <w cat="V" ee="V--P3p" ei="VP3p" lemma="avoir" mph="P3p" subcat="">ont</w>
+      <w cat="V" ee="V--Kms" ei="VKms" lemma="pouvoir" mph="Kms" subcat="">pu</w>
+    </VN>
+    <VPinf fct="OBJ">
+      <VN>
+        <w cat="CL" ee="CL-refl-3mp" ei="CL3mp" lemma="il" mph="3mp" subcat="refl">se</w>
+        <w cat="V" ee="V--W" ei="VW" lemma="réfugier" mph="W" subcat="">réfugier</w>
+      </VN>
+      <PP fct="MOD">
+        <w cat="P" ee="P" ei="P" lemma="sur">sur</w>
+        <NP>
+          <w cat="D" ee="D-def-fs" ei="Dfs" lemma="le" mph="fs" subcat="def">l'</w>
+          <w cat="A" ee="A-qual-fs" ei="Afs" lemma="autre" mph="fs" subcat="qual">autre</w>
+          <w cat="N" ee="N-C-fs" ei="NCfs" lemma="rive" mph="fs" subcat="C">rive</w>
+          <PP>
+            <w cat="P" ee="P" ei="P" lemma="de">de</w>
+            <NP>
+              <w cat="D" ee="D-def-fs" ei="Dfs" lemma="le" mph="fs" subcat="def">la</w>
+              <w cat="N" ee="N-P-fs" ei="NPfs" lemma="Nipoué" mph="fs" subcat="P">Nipoué</w>
+            </NP>
+          </PP>
+        </NP>
+      </PP>
+      <w cat="PONCT" ee="PONCT-W" ei="PONCTW" lemma="," subcat="W">,</w>
+      <PP fct="MOD">
+        <w cat="P" ee="P" ei="P" lemma="en">en</w>
+        <NP>
+          <w cat="N" compound="yes" ee="N-P-fs" ei="NPfs" lemma="Côte-d'Ivoire" mph="fs" subcat="P"> 
+                  <w catint="N">Côte</w>
+                  <w catint="PONCT">-</w>
+                  <w catint="P">d'</w>
+                  <w catint="N">Ivoire</w>
+               </w>
+        </NP>
+      </PP>
+    </VPinf>
+    <w cat="PONCT" ee="PONCT-W" ei="PONCTW" lemma="," subcat="W">,</w>
+    <VPinf fct="MOD">
+      <w cat="P" compound="yes" ee="P" ei="P" lemma="avant de"><w catint="P">avant</w> <w catint="P">d'</w></w>
+      <VN>
+        <w cat="V" ee="V--W" ei="VW" lemma="être" mph="W" subcat="">être</w>
+        <w cat="V" ee="V--Kmp" ei="VKmp" lemma="transférer" mph="Kmp" subcat="">transférés</w>
+      </VN>
+      <PP fct="P-OBJ">
+        <w cat="P" ee="P" ei="P" lemma="à">à</w>
+        <NP>
+          <w cat="N" ee="N-P-ms" ei="NPms" lemma="Man" mph="ms" subcat="P">man</w>
+        </NP>
+      </PP>
+      <w cat="PONCT" ee="PONCT-W" ei="PONCTW" lemma="," subcat="W">,</w>
+      <PP fct="MOD">
+        <w cat="P" ee="P" ei="P" lemma="dans">dans</w>
+        <NP>
+          <w cat="D" ee="D-ind-ms" ei="Dms" lemma="un" mph="ms" subcat="ind">un</w>
+          <w cat="N" ee="N-C-ms" ei="NCms" lemma="hôpital" mph="ms" subcat="C">hôpital</w>
+        </NP>
+      </PP>
+    </VPinf>
+    <w cat="PONCT" ee="PONCT-S" ei="PONCTS" lemma="." subcat="S">.</w>
+  </SENT>
